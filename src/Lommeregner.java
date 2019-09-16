@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Lommeregner {
+    // 5 metoder til at regne med to integers
     int sum(int a, int b) {
         return a + b;
     }
