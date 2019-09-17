@@ -15,7 +15,7 @@ public class Main {
         int operation = readInput.nextInt();
 
         // Til operations, tillad kun tal fra 1 til 5
-        if (1 < operation || operation > 5) {
+        if (1 > operation || operation > 5) {
             System.out.println("Invalid input");
         }
         else {
